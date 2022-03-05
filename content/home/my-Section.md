@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: Hello
+title:
 
 # Section subtitle
 subtitle:
@@ -24,5 +24,3 @@ design:
     color: 'navy'
     text_color_light: true
 ---
-
-ABDe[fpoefe
