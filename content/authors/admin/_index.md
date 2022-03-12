@@ -23,7 +23,7 @@ bio: I, as an aspiring physicist, hope to materialize the "Arc Reactor" to sovle
 #interests:
 #- Nuclear physics
 #- Powerlifting
-#- Guitar
+#- The guitar
 
 #education:
 #  courses:
@@ -53,9 +53,9 @@ social:
   link: https://www.instagram.com/udhavk_
 
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/UhvKohl
+- icon: github
+  icon_pack: fab
+  link: https://github.com/UhvKohl
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
