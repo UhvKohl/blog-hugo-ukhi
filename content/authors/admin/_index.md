@@ -1,5 +1,5 @@
 ---
-title: Udhav Kohli
+title: Udhav Kohl
 role: null
 avatar_filename: avatar.png
 bio: I, as an aspiring physicist, hope to materialize the "Arc Reactor" to solve
