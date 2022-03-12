@@ -2,7 +2,7 @@
 title: Udhav Kohli
 role: null
 avatar_filename: avatar.png
-bio: I, as an aspiring physicist, hope to materialize the "Arc Reactor" to sovle
+bio: I, as an aspiring physicist, hope to materialize the "Arc Reactor" to solve
   the world's energy crisis. My other interests include powerlifting and playing
   the guitar.
 social:
@@ -18,7 +18,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/UhvKohl
-#organizations:
 superuser: true
 status:
   ? icon
