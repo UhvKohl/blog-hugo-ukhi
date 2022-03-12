@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.avatar
+widget: about.Screen Shot 2021-04-07 at 10.46.37 AM
 
 # This file represents a page section.
 headless: true
