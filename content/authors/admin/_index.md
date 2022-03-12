@@ -2,9 +2,10 @@
 title: Udhav Kohli
 role: null
 avatar_filename: avatar.png
-bio: I, as an aspiring physicist, hope to materialize the "Arc Reactor" to solve
-  the world's energy crisis. My other interests include powerlifting and playing
-  the guitar.
+bio: Exploring things during my gap year! In regards to academia, I blog my
+  understandings of concepts within calculus, linear algebra, and general
+  physics. I also discuss the lessons I have learned on my on-going powerlifting
+  and guitar playing journey.
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,3 +23,4 @@ superuser: true
 status:
   ? icon
 ---
+As an aspiring physicist, I hope to materialize the "Arc Reactor" to solve the world's energy crisis. My other interests include powerlifting and playing the guitar. If you'd like to contact me, you can do so by sending me an email or through any social media!
