@@ -19,6 +19,4 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Hey! I'm **Udhav**.
-
-Check out my blog posts below!
+Hey! Check out my blog posts below!
