@@ -6,7 +6,7 @@ title: Udhav Kohli
 superuser: true
 
 # Role/position
-role: Student
+role:
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I apsire to sovle the world's energy crisis by materializing the "Arc Reactor". My other interests include powerlifting and playing the guitar.
+bio: I, as an aspiring physicist, hope to materialize the "Arc Reactor" to sovle the world's energy crisis. My other interests include powerlifting and playing the guitar.
 
 #interests:
 #- Nuclear physics
@@ -67,4 +67,5 @@ social:
 #email: ""
 ---
 
-ABCD.
+ABCD. 
+content/authors/admin
