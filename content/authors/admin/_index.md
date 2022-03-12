@@ -1,71 +1,25 @@
 ---
-# Display name
 title: Udhav Kohli
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role:
-
-# Status emoji
-status:
-  icon: 
-
-# Organizations/Affiliations
-organizations:
-- name:
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: I, as an aspiring physicist, hope to materialize the "Arc Reactor" to sovle the world's energy crisis. My other interests include powerlifting and playing the guitar.
-
-#interests:
-#- Nuclear physics
-#- Powerlifting
-#- The guitar
-
-#education:
-#  courses:
-#  - course: IB Diploma Programme
-#    institution: Gems World Academy
-#    year: 2019-2021
-#  - course: 
-#    institution: 
-#    year: 
-#  - course:
-#    institution: 
-#    year:
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:udhav.kohli@outlook.com" or "#contact" for contact widget.
+role: null
+avatar_filename: photox.png
+bio: I, as an aspiring physicist, hope to materialize the "Arc Reactor" to sovle
+  the world's energy crisis. My other interests include powerlifting and playing
+  the guitar.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCt8JqiFGMbV0HcrjGzhZpLQ
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/udhavk_
-
-# Uncomment below for Github link
-- icon: github
-  icon_pack: fab
-  link: https://github.com/UhvKohl
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+  - icon: envelope
+    icon_pack: fas
+    link: about/#contact
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCt8JqiFGMbV0HcrjGzhZpLQ
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/udhavk_
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/UhvKohl
+organizations: []
+superuser: true
+status:
+  ? icon
 ---
-
-ABCD. 
-content/authors/admin
