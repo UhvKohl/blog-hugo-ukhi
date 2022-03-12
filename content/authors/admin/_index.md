@@ -18,7 +18,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/UhvKohl
-organizations: []
+#organizations:
 superuser: true
 status:
   ? icon
