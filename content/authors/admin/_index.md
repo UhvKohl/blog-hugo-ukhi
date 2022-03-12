@@ -1,7 +1,7 @@
 ---
 title: Udhav Kohli
 role: null
-avatar_filename: photox.png
+avatar_filename: avatar.png
 bio: I, as an aspiring physicist, hope to materialize the "Arc Reactor" to sovle
   the world's energy crisis. My other interests include powerlifting and playing
   the guitar.
