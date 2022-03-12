@@ -12,7 +12,7 @@ author: admin
 
 #design:
 #  background:
-#    color: '#090a0b'
+#    color: '##4C4E52'
 #    text_color_light: true
 #    video:
 #      path:  # enter filename of a video in /assets/media
