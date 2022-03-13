@@ -23,4 +23,4 @@ superuser: true
 status:
   ? icon
 ---
-If you'd like to discuss your thoughts on the subjects I have discussed, you can do so by sending me an email or through any social media!
+If you'd like to discuss your thoughts on the subjects I have discussed, you can do so through the form below or any social media!
