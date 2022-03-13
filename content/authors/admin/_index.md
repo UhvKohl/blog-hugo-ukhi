@@ -23,4 +23,4 @@ superuser: true
 status:
   ? icon
 ---
-As an aspiring physicist, I hope to materialize the "Arc Reactor" to solve the world's energy crisis. My other interests include powerlifting and playing the guitar. If you'd like to contact me, you can do so by sending me an email or through any social media!
+If you'd like to discuss your thoughts on the subjects I have discussed, you can do so by sending me an email or through any social media!
